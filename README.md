@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jasonzzt, a student of Southeast University, China.
-- 👀 I’m interested in Java, C++.
+- 👀 I’m interested in Java, C++, Python.
 - 🌱 I’m currently learning algorithm design, software engineering, operating system, computer network, etc.
 - 📫 You can contact on me by email, and my personal email is "1273302566@qq.com".
 
