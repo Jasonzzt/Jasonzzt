@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jasonzzt, a student of Southeast University, China.
-- 👀 I’m interested in Java, C++, Python.
-- 🌱 I’m currently learning algorithm design, software engineering, operating system, computer network, etc.
-- 📫 You can contact on me by email, and my personal email is "1273302566@qq.com".
+- 👋 Hi, I’m @Jasonzzt, a student of Southeast University.
+- 👀 I’m interested in Java, C++, Python. Now, I'm working on underwater vision, especially fish detecting and tracking.
+- 📫 You can contact on me by email, and my personal email is "zhangztjason@gmail.com".
 
 <!---
 Jasonzzt/Jasonzzt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
