@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jasonzzt, a student of Southeast University.
-- 👀 I’m interested in Java, C++, Python. Now, I'm working on underwater vision, especially fish detecting and tracking.
+- 👋 Hi, I’m @Jasonzzt, a bachelor student from Southeast University.
+- 👀 I’m interested in Brain Computer Interface(BCI). Now, I am an intern at Intel, mainly working in the LLM finetuning.
 - 📫 You can contact on me by email, and my personal email is "zhangztjason@gmail.com".
 
 <!---
