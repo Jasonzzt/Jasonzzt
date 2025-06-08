@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jasonzzt, a master student from Southeast University.
-- 👀 I’m interested in Brain Computer Interface(BCI), Human Computer Interaction(HCI) and Multi-Agents.
+- 👀 I’m interested in Human Computer Interaction(HCI) and Multi-Agent System(MAS).
 - 🧑‍💻 My personal website is https://jasonzzt.github.io/.
 
 <!---
